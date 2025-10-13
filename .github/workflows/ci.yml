@@ -14,17 +14,20 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Checkout Bucket
-        uses: actions/checkout@main
+        # v 4.3.0, 2025-08-11
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955
         with:
           fetch-depth: 2
           path: my_bucket
       - name: Checkout Scoop
-        uses: actions/checkout@main
+        # v 4.3.0, 2025-08-11
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955
         with:
           repository: ScoopInstaller/Scoop
           path: scoop_core
       - name: Init Test Suite
-        uses: potatoqualitee/psmodulecache@main
+        # v 6.2.1, 2025-01-09
+        uses: potatoqualitee/psmodulecache@ee5e9494714abf56f6efbfa51527b2aec5c761b8
         with:
           modules-to-cache: BuildHelpers
           shell: powershell
@@ -38,17 +41,20 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Checkout Bucket
-        uses: actions/checkout@main
+        # v 4.3.0, 2025-08-11
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955
         with:
           fetch-depth: 2
           path: my_bucket
       - name: Checkout Scoop
-        uses: actions/checkout@main
+        # v 4.3.0, 2025-08-11
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955
         with:
           repository: ScoopInstaller/Scoop
           path: scoop_core
       - name: Init Test Suite
-        uses: potatoqualitee/psmodulecache@main
+        # v 6.2.1, 2025-01-09
+        uses: potatoqualitee/psmodulecache@ee5e9494714abf56f6efbfa51527b2aec5c761b8
         with:
           modules-to-cache: BuildHelpers
           shell: pwsh
@@ -57,3 +63,4 @@ jobs:
         run: |
           $env:SCOOP_HOME="$(Convert-Path '.\scoop_core')"
           .\my_bucket\bin\test.ps1
+
