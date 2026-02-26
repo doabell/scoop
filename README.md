@@ -7,3 +7,4 @@ Many thanks to:
 - [plutotree/scoop-bucket](https://github.com/plutotree/scoop-bucket)
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado)
 - [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon)
+- [Capella87/capella-bucket](https://github.com/Capella87/capella-bucket)
