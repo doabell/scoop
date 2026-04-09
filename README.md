@@ -8,3 +8,4 @@ Many thanks to:
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado)
 - [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon)
 - [Capella87/capella-bucket](https://github.com/Capella87/capella-bucket)
+- [wizaman/scoop-bucket](https://github.com/wizaman/scoop-bucket)
