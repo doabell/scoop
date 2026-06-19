@@ -1,16 +1,16 @@
 {
-    "version": "0.4.5",
+    "version": "0.4.7",
     "description": "A language server for just",
     "homepage": "https://github.com/terror/just-lsp",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/terror/just-lsp/releases/download/0.4.5/just-lsp-0.4.5-x86_64-pc-windows-msvc.zip",
-            "hash": "dbbdc0a64c9abecd7d3d80d70ea3afea38d43892a11199931ca6780a9627eb0e"
+            "url": "https://github.com/terror/just-lsp/releases/download/0.4.7/just-lsp-0.4.7-x86_64-pc-windows-msvc.zip",
+            "hash": "3325cfc2ca4a2adc39a897ff6dbdf7e3d868673faf8db3eadece1a08f3583064"
         },
         "arm64": {
-            "url": "https://github.com/terror/just-lsp/releases/download/0.4.5/just-lsp-0.4.5-aarch64-pc-windows-msvc.zip",
-            "hash": "bedda762bbe0f129768dd33ff82e42835a3d1104df5859760f6da13113503be8"
+            "url": "https://github.com/terror/just-lsp/releases/download/0.4.7/just-lsp-0.4.7-aarch64-pc-windows-msvc.zip",
+            "hash": "713f3ad782e992150a319c3648fdddb0693e60261c2f28233dd6624669dabea8"
         }
     },
     "bin": "just-lsp.exe",
