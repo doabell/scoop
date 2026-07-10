@@ -9,3 +9,5 @@ Many thanks to:
 - [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon)
 - [Capella87/capella-bucket](https://github.com/Capella87/capella-bucket)
 - [wizaman/scoop-bucket](https://github.com/wizaman/scoop-bucket)
+- [SamuelCastrillon/scoop-bucket-gentle-stack](https://github.com/SamuelCastrillon/scoop-bucket-gentle-stack)
+- 
