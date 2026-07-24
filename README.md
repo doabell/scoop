@@ -10,4 +10,4 @@ Many thanks to:
 - [Capella87/capella-bucket](https://github.com/Capella87/capella-bucket)
 - [wizaman/scoop-bucket](https://github.com/wizaman/scoop-bucket)
 - [SamuelCastrillon/scoop-bucket-gentle-stack](https://github.com/SamuelCastrillon/scoop-bucket-gentle-stack)
-- [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon)
+- [maqibg/MQBucket](https://github.com/maqibg/MQBucket)
